@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cloud-management-app/static/css/main.367c20fd.css",
+    "main.js": "/cloud-management-app/static/js/main.5ce1fcc9.js",
+    "static/media/support.jpg": "/cloud-management-app/static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "static/media/cyber-bg.png": "/cloud-management-app/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "index.html": "/cloud-management-app/index.html",
+    "main.367c20fd.css.map": "/cloud-management-app/static/css/main.367c20fd.css.map",
+    "main.5ce1fcc9.js.map": "/cloud-management-app/static/js/main.5ce1fcc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.367c20fd.css",
+    "static/js/main.5ce1fcc9.js"
+  ]
+}
